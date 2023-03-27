@@ -1,0 +1,27 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "usefull react hook",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jud3v2/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "hooks"
+  ],
+  "author": "jud3v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jud3v2/react-hooks/issues"
+  },
+  "homepage": "https://github.com/jud3v2/react-hooks#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
