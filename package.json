@@ -1,8 +1,8 @@
 {
   "name": "react-hooks",
-  "version": "1.0.0",
-  "description": "usefull react hook",
-  "main": "none",
+  "version": "0.1.0",
+  "description": "useful react hook",
+  "main": "index.jsx",
   "scripts": {
     "test": "none"
   },
