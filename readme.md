@@ -10,15 +10,15 @@ Hello :) i open this repo to share my custom that i use every day and in product
 
 1. Install the package
 
-```
-npm install react-hooks@latest
+```bash
+npm install @jud3v2/react-hooks@latest
 ```
 
 2. Next you can use the package who you want in your project
 
-```
-import { useFetch } from '@react-hook/api/useFetch' // <-- this is highly recommended 
-import hooks from '@react-hooks' // <-- this is not recommended
+```js
+import { useFetch } from '@jud3v2/react-hooks/api/useFetch' // <-- this is highly recommended 
+import hooks from '@jud3v2/react-hooks' // <-- this is not recommended
 
 const { response, error, isPending } = useFetch('http://localhost:7001/', {})
 
@@ -34,13 +34,13 @@ This package use these dependencies:
 ### Installing
 
 with npm 
-```
-npm install react-hooks@latest
+```bash
+npm install @jud3v2/react-hooks@latest
 ```
 
 with yarn 
-```
-yarn add react-hooks@latest
+```bash
+yarn add @jud3v2/react-hooks@latest
 ```
 
 
@@ -58,3 +58,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Why this project
 
 I'm passionate by lightweight and performance, so i have create this repo because all developpers don't need some huge size in production just that you need, and you will be sure that you require will be executed fast as possible
+
+## Documentation
+
+The documentation of all component will be able in a few weeks.
